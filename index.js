@@ -32,5 +32,7 @@ inquire
               name: 'tests',
               message: 'What are the test instructions for your project?',
             },
-            
-    ]
+])
+    .then((answers) => {
+        console.log(answers);
+    });
