@@ -91,6 +91,6 @@ inquire
 
        fs.writeFile('README.md', result, (err, data) => {
         if (err) throw err;
-        fs.unlink('README.md');
+        // fs.unlink('README.md');
     });
 });
