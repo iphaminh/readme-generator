@@ -1,4 +1,41 @@
 const inquire = require('inquirer');
+const fs = require('fs');
+
+function intoString(answers) {
+    return 
+
+    # ${answers.title}
+
+    ## Description
+    
+    ${answers.description}
+    
+    ## Installation
+    
+    ${answers.installation}
+    
+    ## Usage
+    
+    ${answers.usage}
+    
+    ## Contributing
+    
+    ${answers.contributing}
+    
+    ## Tests
+    
+    ${answers.tests}
+    
+    ## License
+    
+    ${answers.license}
+    
+    ## Questions
+    
+    If you have any questions, feel free to reach out to me at ${answers.email} or visit my [GitHub profile] ${answers.github}
+
+}
+
 
 inquire
     .prompt([
@@ -46,7 +83,7 @@ inquire
               {
                 type: 'input',
                 name: 'email',
-                message: 'What ais your email address?',
+                message: 'What is your email address?',
               },
 ])
     .then((answers) => {
