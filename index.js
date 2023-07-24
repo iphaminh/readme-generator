@@ -37,7 +37,17 @@ inquire
               name: 'license',
               message: 'What are the test instructions for your project?',
               choices: ['MIT', 'Apache 2.0', 'GPL 3.0', 'BSD 3', 'None'],
-            }
+            },
+            {
+                type: 'input',
+                name: 'Github',
+                message: 'What is your Github username?',
+              }, 
+              {
+                type: 'input',
+                name: 'email',
+                message: 'What ais your email address?',
+              },
 ])
     .then((answers) => {
         console.log(answers);
