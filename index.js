@@ -87,5 +87,9 @@ inquire
               },
 ])
     .then((answers) => {
-        console.log(answers);
+       const result = intoString(answers);
+
+       fs.writeFile('README.md', result, (err, data) => {
+        if (err) throw err;
     });
+});
