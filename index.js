@@ -32,6 +32,12 @@ inquire
               name: 'tests',
               message: 'What are the test instructions for your project?',
             },
+            {
+              type: 'list',
+              name: 'license',
+              message: 'What are the test instructions for your project?',
+              option: ['MIT', 'Apache 2.0', 'GPL 3.0', 'BSD 3', 'None'],
+            }
 ])
     .then((answers) => {
         console.log(answers);
