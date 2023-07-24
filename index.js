@@ -2,7 +2,7 @@ const inquire = require('inquirer');
 const fs = require('fs');
 
 function intoString(answers) {
-    return 
+    return `
 
     # ${answers.title}
 
@@ -33,7 +33,7 @@ function intoString(answers) {
     ## Questions
     
     If you have any questions, feel free to reach out to me at ${answers.email} or visit my [GitHub profile] ${answers.github}
-
+}`
 }
 
 
