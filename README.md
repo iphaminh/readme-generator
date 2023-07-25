@@ -4,23 +4,23 @@
 
     ## Description
     
-    This is a command-line application that dynamically generates a professional README.md file from a user's input for less time consuming making README
+    Creating a professional README.md file from user input. It will provide user with less time consume on making a README file
     
     ## Installation
     
-    Need to have Node.js installed on your system. Once you have Node.js, download the project files, navigate to the project directory in your terminal, and run npm install to install the necessary depemdencies
+    User needs to install node.js first then run npm install in terminal 
     
     ## Usage
     
-    You will be prompted to answer a series of questions about your project. Once all questions are answered, a README.md file will be generated in the current directory.
+    To use the application, cd to the directory that working on and run node indes.js in terminal. The prompt will pop-up and user will asnwer all of the question to create the README file
     
     ## Contributing
     
-    If you wish to contribute, please fork the repository, make your changes, and issue a pull request.
+    If you wish to contribute, please fork the repository, make your chaneges, and issue a pull request. 
     
     ## Tests
     
-    This project does not currently include any tests
+    No test need to be done
     
     ## License
     
