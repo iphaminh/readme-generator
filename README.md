@@ -12,7 +12,7 @@
     
     ## Usage
     
-    navigate to the project directory in your terminal and run node index.js. You will be prompted to answer a series of questions about your project. Once all questions are answered, a README.md file will be generated in the current directory
+    Navigate to the project directory in your terminal and run node index.js. You will be prompted to answer a series of questions about your project. Once all questions are answered, a README.md file will be generated in the current directory
     
     ## Contributing
     
@@ -24,8 +24,7 @@
     
     ## License
     
-    MIT [![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.org/project/pip/)
-
+    MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
     ## Questions
     
