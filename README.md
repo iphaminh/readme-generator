@@ -5,8 +5,8 @@
     ## Description
     
     Creating a professional README.md file from user input. It will provide user with less time consume on making a README file
-    <img src="./asset/Untitled_-Jul-24_-2023-9_12-PM-_2_.gif" width="500" height="300">
-
+    
+![Alt text](asset/Untitled_-Jul-24_-2023-9_12-PM-_2_.gif)
     ![Alt text](<asset/Screenshot 2023-07-24 at 11.28.00 PM.png>)
 
     ## Installation
