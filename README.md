@@ -24,7 +24,8 @@
     
     ## License
     
-    MIT https://img.shields.io/badge/License-MIT-yellow.svg
+    MIT [![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.org/project/pip/)
+
     
     ## Questions
     
