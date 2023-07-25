@@ -8,6 +8,9 @@
 
     ![Example GIF](./asset/Untitled_-Jul-24_-2023-9_12-PM-_2_.gif)
 
+    ![Alt text](/asset/Screenshot%202023-07-24%20at%2011.28.00%20PM.png)
+
+
     
     ## Installation
     
