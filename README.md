@@ -1,6 +1,6 @@
 
 
-    # README Generator 
+    # README Genearator 
 
     ## Description
     

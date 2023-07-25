@@ -36,6 +36,12 @@ function intoString(answers) {
 }`
 }
 
+function makingBadge(licence) {
+    if (license === 'MIT') {
+        return '[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)'
+    }
+}
+
 
 inquire
     .prompt([
