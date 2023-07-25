@@ -12,21 +12,19 @@
     
     ## Usage
     
-    To use the application, cd to the directory that working on and run node indes.js in terminal. The prompt will pop-up and user will asnwer all of the question to create the README file
+    
     
     ## Contributing
     
-    If you wish to contribute, please fork the repository, make your chaneges, and issue a pull request. 
+    To use the application, cd to the directory that working on and run node indes.js in terminal. The prompt will pop-up and user will asnwer all of the question to create the README file
     
     ## Tests
     
-    
+    If you wish to contribute, please fork the repository, make your chaneges, and issue a pull request.
     
     ## License
     
-    MIT
-    
-    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+    MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     
     ## Questions
     

@@ -28,15 +28,14 @@ function intoString(answers) {
     
     ## License
     
-    ${answers.license}
-    
-    ${makingBadge(answers.license)}
+    ${answers.license} ${makingBadge(answers.license)}
     
     ## Questions
     
     If you have any questions, feel free to reach out to me at ${answers.email} or visit my [GitHub profile] ${answers.github}
 }`
 }
+
 
 function makingBadge(license) {
     if (license === 'MIT') {
