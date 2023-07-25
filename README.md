@@ -12,7 +12,7 @@
     
     ## Usage
     
-    
+    navigate to the project directory in your terminal and run node index.js. You will be prompted to answer a series of questions about your project. Once all questions are answered, a README.md file will be generated in the current directory
     
     ## Contributing
     
@@ -20,7 +20,7 @@
     
     ## Tests
     
-    If you wish to contribute, please fork the repository, make your chaneges, and issue a pull request.
+     If you wish to contribute, please fork the repository, make your chaneges, and issue a pull request.
     
     ## License
     
