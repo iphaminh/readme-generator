@@ -5,6 +5,9 @@
     ## Description
     
     Creating a professional README.md file from user input. It will provide user with less time consume on making a README file
+
+    ![Example MP$](./asset/Untitled_-Jul-24_-2023-9_12-PM-_2_.mp4)
+
     
     ## Installation
     
