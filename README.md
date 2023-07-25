@@ -5,13 +5,10 @@
     ## Description
     
     Creating a professional README.md file from user input. It will provide user with less time consume on making a README file
+![Alt text](asset/Untitled_-Jul-24_-2023-9_12-PM-_2_.gif)
 
-    ![Example GIF](./asset/Untitled_-Jul-24_-2023-9_12-PM-_2_.gif)
+    ![Alt text](<asset/Screenshot 2023-07-24 at 11.28.00 PM.png>)
 
-    ![Alt text](/asset/Screenshot%202023-07-24%20at%2011.28.00%20PM.png)
-
-
-    
     ## Installation
     
     User needs to install node.js first then run npm install in terminal 
