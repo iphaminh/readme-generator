@@ -30,13 +30,15 @@ function intoString(answers) {
     
     ${answers.license}
     
+    ${makingBadge(answers.license)}
+    
     ## Questions
     
     If you have any questions, feel free to reach out to me at ${answers.email} or visit my [GitHub profile] ${answers.github}
 }`
 }
 
-function makingBadge(licence) {
+function makingBadge(license) {
     if (license === 'MIT') {
         return '[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)'
     }
